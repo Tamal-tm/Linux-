@@ -8,3 +8,4 @@
 
 ## Commands learned
 - ls -la, cd, pwd, cat, chmod, find
+Switched to SSH authentication
